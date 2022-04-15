@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ASCII Text Art</string>
+
+    <!--For splash-->
+    <string name="image_description">App Icon</string>
+
+    <!--Headers-->
+    <string name="header_one">Click to copy ASCII art</string>
+    <string name="credits">Credits</string>
+    <string name="large_art_visibility_disclaimer">This art has a black background the make them more visible</string>
+    <string name="more_coming_soon">More coming soon…</string>
+    <string name="links_and_resources">Links and resources</string>
+    <string name="developer_name">ToxicFlame427</string>
+    <string name="developer_association">Developer:</string>
+
+    <!--Paragraph texts-->
+    <string name="credits_disclaimer">We do not personally own the rights to these ASCII faces or text art. The original sources to the faces are listed below.</string>
+
+    <!--For dialogs-->
+    <string name="bug_report_dialog_title">Submit a bug report?</string>
+    <string name="bug_report_dialog_desc">Would you like to continue to send us a bug? This will take you to our bug report page on our website. If an issue with our app has been found, please report is to us so we can fix it ASAP. Thank you!</string>
+
+    <string name="review_app_dialog_title">Review our app?</string>
+    <string name="review_app_dialog_desc">Would you like to continue to rate our app? This will take you to the app page on Google Play. By rating our app, you help by giving us valuable feedback that can be used to make our apps better for our users!</string>
+
+    <!--External links-->
+    <string name="textfaces_link"><a href="https://textfac.es/">textfac.es</a></string>
+    <string name="lennyfaces_link"><a href="https://lennyfac.es">lennyfac.es</a></string>
+    <string name="twitch_quotes_link"><a href="https://twitchquotes.com">twitchquotes.com</a></string>
+    <string name="asky_link" translatable="false"><a href="https://asky.lol">asky.lol</a></string>
+
+    <!--Placeholder texts-->
+    <string name="placeholder">Face Goes Here</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Drawer open status-->
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_closed">Drawer closed</string>
+
+    <!--Menu texts-->
+    <string name="ascii_faces">ASCII Faces</string>
+    <string name="lenny_faces">Lenny Faces</string>
+    <string name="emotional">Emotional</string>
+    <string name="animals">Animals</string>
+    <string name="items">Items</string>
+    <string name="large_art">Large Art</string>
+    <string name="misc">Misc</string>
+    <string name="other_pages">Other Pages</string>
+    <string name="app_credits">App Credits</string>
+    <string name="review_our_app">Review our App</string>
+    <string name="report_a_bug">Report A Bug</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+
+    <string name="app_name">ASCII-Textkunst</string>
+
+    <!--For splash-->
+
+    <string name="image_description">App-Symbol</string>
+
+    <!--Headers-->
+
+    <string name="header_one">Klicken Sie hier, um ASCII-Grafiken zu kopieren</string>
+
+    <string name="credits">Guthaben</string>
+
+    <string name="large_art_visibility_disclaimer">Diese Kunst hat einen schwarzen Hintergrund, damit man sie besser sehen kann</string>
+
+    <string name="more_coming_soon">Demnächst kommen mehr ...</string>
+
+    <string name="links_and_resources">Links und Ressourcen</string>
+
+    <string name="developer_name">ToxicFlame427</string>
+
+    <string name="developer_association">Entwickler:</string>
+
+    <!--Paragraph texts-->
+
+    <string name="credits_disclaimer">Wir besitzen nicht die Rechte an diesen ASCII-Gesichtern oder Textkunstwerken. Die Originalquellen der Gesichter sind unten aufgeführt.</string>
+
+    <!--For dialogs-->
+
+    <string name="bug_report_dialog_title">Einen Fehlerbericht senden?</string>
+
+    <string name="bug_report_dialog_desc">Möchten Sie uns auch weiterhin einen Fehler senden? Dadurch gelangen Sie zu unserer Fehlerberichtsseite auf unserer Website. Wenn ein Problem mit unserer App gefunden wurde, melden Sie es uns bitte, damit wir es so schnell wie möglich beheben können. Wir danken Ihnen!</string>
+
+    <string name="review_app_dialog_title">Bewerten Sie unsere App?</string>
+
+    <string name="review_app_dialog_desc">Möchten Sie unsere App auch weiterhin bewerten? Dadurch gelangen Sie zur App-Seite bei Google Play. Durch die Bewertung unserer App helfen Sie uns, indem Sie uns wertvolles Feedback geben, das wir verwenden können, um unsere Apps für unsere Benutzer zu verbessern!</string>
+
+    <!--External links-->
+    <string name="textfaces_link"><a href="https://textfac.es/">textfac.es</a></string>
+    <string name="lennyfaces_link"><a href="https://lennyfac.es">lennyfac.es</a></string>
+    <string name="twitch_quotes_link"><a href="https://twitchquotes.com">twitchquotes.com</a></string>
+    <string name="asky_link" translatable="false"><a href="https://asky.lol">asky.lol</a></string>
+
+    <!--Placeholder texts-->
+
+    <string name="placeholder">Das Gesicht gehört hierher</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <!--Drawer open status-->
+
+    <string name="drawer_open">Schublade offen</string>
+
+    <string name="drawer_closed">Schublade geschlossen</string>
+
+    <!--Menu texts-->
+
+    <string name="ascii_faces">ASCII-Gesichter</string>
+
+    <string name="lenny_faces">Lenny-Gesichter</string>
+
+    <string name="emotional">Emotional</string>
+
+    <string name="animals">Tiere</string>
+
+    <string name="items">Produkte</string>
+
+    <string name="large_art">Große Kunst</string>
+
+    <string name="misc">Sonstiges</string>
+
+    <string name="other_pages">Andere Seiten</string>
+
+    <string name="app_credits">App-Guthaben</string>
+
+    <string name="review_our_app">Überprüfen Sie unsere App</string>
+
+    <string name="report_a_bug">Melden Sie einen Fehler</string>
+
+</resources>

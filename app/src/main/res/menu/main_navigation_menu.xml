@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/ascii_faces">
+        <menu>
+            <item
+                android:id="@+id/lenny_faces_menu"
+                android:icon="@drawable/face_icon"
+                android:title="@string/lenny_faces"/>
+            <item
+                android:id="@+id/emotional_menu"
+                android:icon="@drawable/emotional_icon"
+                android:title="@string/emotional"/>
+            <item
+                android:id="@+id/animals_menu"
+                android:icon="@drawable/animals_icon"
+                android:title="@string/animals"/>
+            <item
+                android:id="@+id/items_menu"
+                android:icon="@drawable/items_icon"
+                android:title="@string/items"/>
+            <item
+                android:id="@+id/large_art_menu"
+                android:icon="@drawable/large_art_icon"
+                android:title="@string/large_art"/>
+            <item
+                android:id="@+id/misc_menu"
+                android:icon="@drawable/misc_icon"
+                android:title="@string/misc"/>
+        </menu>
+    </item>
+    <item android:title="@string/other_pages">
+        <menu>
+            <item
+                android:id="@+id/credits_menu"
+                android:icon="@drawable/people_icon"
+                android:title="@string/app_credits"/>
+            <item
+                android:id="@+id/review_menu"
+                android:icon="@drawable/star_icon"
+                android:title="@string/review_our_app"/>
+            <item
+                android:id="@+id/report_bug_menu"
+                android:icon="@drawable/bug_icon"
+                android:title="@string/report_a_bug"/>
+        </menu>
+    </item>
+</menu>
