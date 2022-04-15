@@ -8,4 +8,6 @@ that will happen sometime soon.
 
 You can download this app on Google Play <a href="https://play.google.com/store/apps/details?id=com.toxicflame427.asciiart">here</a>
 
+Check out more on the app on my website at <a href="https://www.toxicflame427.xyz/pages/app_pages/ascii_text_art.html">https://toxicFlame427.xyz/</a>
+
 My developer account is ToxicFlame427
