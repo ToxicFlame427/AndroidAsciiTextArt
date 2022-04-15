@@ -16,12 +16,6 @@
         android:orientation="vertical"
         android:gravity="center_horizontal">
 
-        <com.google.android.gms.ads.AdView
-            android:id="@+id/main_ad"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            ads:adSize="LARGE_BANNER"/>
-
     <TextView
         android:visibility="visible"
         android:id="@+id/copy_art_text"
