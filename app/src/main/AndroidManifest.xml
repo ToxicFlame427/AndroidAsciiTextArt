@@ -13,10 +13,6 @@
         android:theme="@style/Theme.ASCIIArt"
         android:requestLegacyExternalStorage="true">
 
-        <meta-data
-            android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-9027801021996248~1259947172"/>
-
         <activity
             android:name=".Splash"
             android:exported="true"
