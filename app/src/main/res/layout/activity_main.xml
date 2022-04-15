@@ -20,8 +20,7 @@
             android:id="@+id/main_ad"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            ads:adSize="LARGE_BANNER"
-            ads:adUnitId="ca-app-pub-9027801021996248/2978850111"/>
+            ads:adSize="LARGE_BANNER"/>
 
     <TextView
         android:visibility="visible"
